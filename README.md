@@ -116,14 +116,12 @@ Computer Science Student | AI & Biomedical Enthusiast
 ### 📚 Currently Learning
 
 
--Biomedical Engnieering
-- BMachine Learning
+ -Biomedical Engnieering
+- Machine Learning
 - Deep Learning
 - Computer Vision
 - Flutter Development
 - Biomedical AI
-- Embedded AI
-- ESP32 & IoT
 
 
 ```
