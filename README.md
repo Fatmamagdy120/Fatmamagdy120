@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatma Magdy</h1>
+<h1 align="center">Hi 👋Fatma Magdy</h1>
 
 <h3 align="center">
 Computer Science Student | AI & Biomedical Enthusiast
