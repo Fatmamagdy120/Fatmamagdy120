@@ -61,33 +61,17 @@ Computer Science Student | AI & Biomedical Enthusiast
 
 ---
 
-### 🤖 Artificial Intelligence
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- AI Applications
-
----
 
 ### 🩺 Biomedical Engineering
 
 - Healthcare AI
 - Assistive Technology
-- Medical IoT
 - Biomedical Projects
 
 ---
 
-### 🌐 Networking
 
-- Network Fundamentals
-- Cisco Networking
-- TCP/IP
-- Routing & Switching
-- OSI Model
-
----
 
 ### 🎨 UI / UX Design
 
@@ -97,8 +81,6 @@ Computer Science Student | AI & Biomedical Enthusiast
 
 - UI Design
 - UX Design
-- Wireframing
-- Prototyping
 - Figma
 - Canva
 
@@ -113,7 +95,6 @@ Computer Science Student | AI & Biomedical Enthusiast
 - Arduino
 - ESP32
 - Sensors Integration
-- IoT Projects
 
 ---
 
@@ -123,25 +104,27 @@ Computer Science Student | AI & Biomedical Enthusiast
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,mysql" />
 </p>
 
-- Git
 - GitHub
 - VS Code
 - Figma
 - Canva
-- Firebase
-- MySQL
+- SQL Server
+- سضم
 
 ---
 
 ### 📚 Currently Learning
 
-- Machine Learning
+
+-Biomedical Engnieering
+- BMachine Learning
 - Deep Learning
 - Computer Vision
 - Flutter Development
 - Biomedical AI
 - Embedded AI
 - ESP32 & IoT
+
 
 ```
 
