@@ -1,7 +1,7 @@
 <h1 align="center">Fatma Magdy</h1>
 
 <h3 align="center">
-Computer Science Student | AI & Biomedical Enthusiast
+Computer Science Student
 </h3>
 
 <p align="center">
@@ -44,8 +44,8 @@ Computer Science Student | AI & Biomedical Enthusiast
 </p>
 
 - Responsive Web Design
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ---
@@ -65,7 +65,6 @@ Computer Science Student | AI & Biomedical Enthusiast
 
 ### 🩺 Biomedical Engineering
 
-- Healthcare AI
 - Assistive Technology
 - Biomedical Projects
 
@@ -109,7 +108,7 @@ Computer Science Student | AI & Biomedical Enthusiast
 - Figma
 - Canva
 - SQL Server
-- سضم
+  
 
 ---
 
