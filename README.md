@@ -13,10 +13,8 @@ Computer Science Student
 # 👩‍💻 About Me
 
 - 🎓 Computer Science Student.
-- 🤖 Passionate about Artificial Intelligence and Biomedical Engineering.
-- 💻 Interested in building AI-powered healthcare and assistive technology projects.
-- 🌱 Currently learning Machine Learning, Computer Vision, Flutter, and Embedded Systems.
-- 🚀 I enjoy turning ideas into real-world applications.
+- 💻 Interested in assistive technology projects.
+- 🌱 Currently learning Machine Learning, AI, Flutter,and compilers.
 - 🏆 My goal is to develop innovative solutions that improve people's lives.
 
 ---
@@ -34,6 +32,7 @@ Computer Science Student
 - JavaScript
 - HTML
 - CSS
+- Dart
 
 ---
 
@@ -43,7 +42,6 @@ Computer Science Student
 <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
 </p>
 
-- Responsive Web Design
 - HTML
 - CSS
 - JavaScript
@@ -85,7 +83,7 @@ Computer Science Student
 
 ---
 
-### 🔧 Hardware & Embedded Systems
+### 🔧 Hardware 
 
 <p>
 <img src="https://skillicons.dev/icons?i=arduino" />
@@ -103,24 +101,23 @@ Computer Science Student
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,mysql" />
 </p>
 
-- GitHub
 - VS Code
+- VS
 - Figma
 - Canva
 - SQL Server
+
   
 
 ---
 
 ### 📚 Currently Learning
 
-
- -Biomedical Engnieering
 - Machine Learning
-- Deep Learning
-- Computer Vision
+-Didital signal prosissing
+- compilers
+- computer security 
 - Flutter Development
-- Biomedical AI
 
 
 ```
