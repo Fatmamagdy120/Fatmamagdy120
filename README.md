@@ -106,9 +106,7 @@ Computer Science Student
 - Figma
 - Canva
 - SQL Server
-
-  
-
+- 
 ---
 
 ### 📚 Currently Learning
