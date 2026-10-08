@@ -5,7 +5,7 @@ Computer Science Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+Enthusiast;Biomedical+Engineering;Front-End+Developer;Flutter+Developer;UI%2FUX+Designer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Front-End+Developer;UI%2FUX+Designer" />
 </p>
 
 ---
